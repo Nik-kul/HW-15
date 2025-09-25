@@ -74,7 +74,7 @@ ul {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  color: var(--black-color);
+  color: blue;
 }
 .logo span {
   color: yellow;
@@ -251,6 +251,7 @@ ul {
 .features-list-li:nth-child(4)::before {
   background-image: url("photo_2025-09-14_12-33-14.jpg.svg");
 }
+
 
 
 
